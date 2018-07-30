@@ -1,0 +1,15 @@
+{
+  "name": "theel0ja-boilerplate",
+  "license": "MIT",
+  "scripts": {
+    "start": "serve"
+  },
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.3"
+  },
+  "devDependencies": {
+    "serve": "^9.4.0"
+  }
+}
