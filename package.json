@@ -1,6 +1,7 @@
 {
   "name": "theel0ja-boilerplate",
   "license": "MIT",
+  "private": "true",
   "scripts": {
     "start": "serve"
   },
